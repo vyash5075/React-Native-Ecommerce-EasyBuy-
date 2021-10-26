@@ -1,0 +1,22 @@
+npm init
+package.json-> (entry point)  -> .js
+npm i nodemon
+npm i express
+npm install dotenv
+
+
+app.use(express.json()); 
+//body parser gotdeprecated and replace it with express.json now.
+npm i morgan    // log our http request coming form frontend
+npm i  mongoose //responsible for all operations of mongodb databse in our application
+npm i bcryptjs
+npm i jsonwebtoken
+npm i express-jwt
+npm i multer // to upload files to our server
+npm i react-native-vector-icons
+npm i @react-navigation/stack
+npm i redux react-redux redux-devtools-extension redux-logger redux-thunk
+npm i react-native-swipe-list-view
+npm i jwt-decode
+npm i @react-native-community/async-storage@1.12.1
+npm init styled components
