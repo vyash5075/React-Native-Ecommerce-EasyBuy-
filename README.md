@@ -5,7 +5,7 @@ This project was bootstrapped with [Expo Cli](https://docs.expo.dev/workflow/exp
 
 ## Available Scripts
 
-The project is created with:
+The project is created with-:
 
 ```
 expo init easybuy
