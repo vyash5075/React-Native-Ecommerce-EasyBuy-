@@ -11,7 +11,7 @@ The project is created with-:
 expo init easybuy
 ```
 
-In the project directory, you can run:
+In the project directory, you can run-:
 
 ```
 npm start
