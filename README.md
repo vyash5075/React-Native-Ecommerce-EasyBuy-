@@ -1,7 +1,7 @@
 # EasyBuy
 ## React Native Ecommerce
 
-This project was bootstrapped with [Expo Cli](https://docs.expo.dev/workflow/expo-cli/).
+This project was bootstrapped with. [Expo Cli](https://docs.expo.dev/workflow/expo-cli/).
 
 ## Available Scripts
 
